@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AndroidMaster</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="altura">altura</string>
+
+
+    <string name="error">ERROR</string>
+
+    <string name="title_bajo_peso">bajo peso</string>
+    <string name="description_bajo_peso">estas por debajo de lo optimo para tu peso y altura.</string>
+
+    <string name="title_peso_normal">peso normal</string>
+    <string name="description_peso_normal">estas en el optimo para tu peso y altura.</string>
+
+    <string name="title_sobrepeso">sobrepeso</string>
+    <string name="description_sobrepeso">estas por encima de lo optimo para tu peso y eltura.</string>
+
+    <string name="title_obecidad">obecidad</string>
+    <string name="description_obecidad">estas MUY por encima de lo optimo para tu peso y alura.</string>
+
+
+    <!--TODO App-->
+
+
+    <string name="todo_title">Bienvenido</string>
+    <string name="todo_categoreias">Categorias</string>
+    <string name="todo_tasks">Tareas</string>
+    <string name="todo_agrega_la_tarea">agrega la tarea</string>
+
+    <string name="todo_dialogText_personal">Personal</string>
+    <string name="todo_dialogText_business">Negocios</string>
+    <string name="todo_dialogText_other">Otros</string>
+    <string name="crear_tarea">Crear Tarea</string>
+
+
+
+    <string name="modo_oscuro">Modo oscuro</string>
+    <string name="activa_modo_oscuro">Activa el modo oscuro</string>
+
+</resources>
